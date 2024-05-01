@@ -4,5 +4,5 @@ The game, built with Unity, features Lego-inspired graphics and offers easy leve
 📢 Important Announcement: Due to the size of the project, the game executable file exceeds 25MB. To access the game and experience its full functionality, please download it from the Google drive linked below:
 
 https://drive.google.com/drive/folders/117j4U8lsN38HEnrJPrEF76XDUj919RXW
- this is a computer game (64-bit) 
+only for 64-bit computer.  
 
